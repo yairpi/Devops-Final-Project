@@ -7,6 +7,6 @@
 <title>JSP - Hello World Tutorial - Programmer Gate</title>
 </head>
 <body>
-<%= "test" %>
+<%= "test1" %>
 </body>
 </html>
